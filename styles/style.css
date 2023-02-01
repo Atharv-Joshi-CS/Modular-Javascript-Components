@@ -1,0 +1,16 @@
+.section{
+    display: flex;  
+}
+
+.widgetContainer{
+    text-align: center;
+    margin: 20px 25px;
+    background-color: antiquewhite;
+    border-color: black;
+    border-style: solid;
+}
+
+button{
+    padding: 5px;
+    margin: 10px;
+}
